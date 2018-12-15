@@ -12,25 +12,32 @@
 		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
 	
 	
-	
-	 
     <!-- MySQL dataSource Setting -->
     <bean id="dataSource"
         class="org.springframework.jdbc.datasource.DriverManagerDataSource">
         <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"></property>
-        <property name="url" value="jdbc:mysql://35.221.107.139:3306">
+        <property name="url" value="jdbc:mysql://35.221.107.139:3306/kart">
         </property>
         <property name="username" value="root"></property>
         <property name="password" value="bae123$"></property>
     </bean>
-    <!-- MySQL dataSource Setting END -->     
-	
+    <!-- MySQL dataSource Setting END -->
+
+	<!-- sql펙토리 -->
 	<bean id="sqlSessionFactory"
 		class="org.mybatis.spring.SqlSessionFactoryBean">
 		<property name="dataSource" ref="dataSource" />
-		<property name="configLocation"	value="classpath:config/mybatis-config.xml" />
+	 	<property name="mapperLocations" value="classpath:sqlmap/*-sqlmap.xml"/>
+		<property name="configLocation" value="classpath:config/mybatis-config.xml" />
 	</bean>
+	<!-- sql펙토리 end -->
 		
-		
+    <!-- 트랜잭션 -->
+	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource" />
+	</bean>		
+	
+	<mybatis-spring:scan base-package="com.kart.phb.mapper"/>
+	<context:component-scan base-package="com.kart.phb.*" />
 		
 </beans>
