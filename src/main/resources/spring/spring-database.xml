@@ -17,7 +17,7 @@
         <property name="url" value="jdbc:mysql://35.221.107.139:3306/kart">
         </property>
         <property name="username" value="root"></property>
-        <property name="password" value="bae123$"></property>
+        <property name="password" value=""></property>
     </bean>
 
 	<bean id="dataSource"
