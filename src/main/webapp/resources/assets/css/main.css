@@ -1,0 +1,27 @@
+﻿body {
+	background:#1f1f1f;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+font-family: 'Raleway', sans-serif;}
+
+h3,h4 , h5 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight:lighter;
+	color: orange;
+}
+
+h2{
+	font-size:22px;
+}
+
+h3 {
+	font-size:46px;
+	color:#b2c831
+}
+
+h5 {
+	color:#b2c831;
+	margin-left:5px;
+}

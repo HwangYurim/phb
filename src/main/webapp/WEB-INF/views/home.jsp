@@ -7,11 +7,12 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>하이루</h1>
-	
+	<h4>하이루</h4>
+	<%=request.getContextPath()%>
 	<c:forEach items="${result}" var="list">
 		<p> ${list.userEmail} </p>
 	</c:forEach>
+
 
 </body>
 </html>
