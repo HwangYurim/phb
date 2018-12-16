@@ -17,9 +17,9 @@
       <nav>
           <ul>
               <li><a href="#about">About</a></li>
-              <li><a href="#experience">experience</a></li>
-              <li><a href="#projects">projects</a></li>
-              <li><a href="#contact">contact</a></li>
+              <li><a href="#experience">Story</a></li>
+              <li><a href="#projects">Kart-Fam Photo</a></li>
+              <li><a href="#contact">Join</a></li>
           </ul>
       </nav>
   </header>

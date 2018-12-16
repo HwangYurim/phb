@@ -12,8 +12,15 @@
         <div class="container">
             <div class="disply-table">
                 <div class="table-cell" data-aos="fade-up" data-aos-delay="0">
-                    <h4>Ahmed Eissa</h4>
-                    <h1>Ui &<br /> Ux Designer</h1> </div>
+                    <h4>카트팸</h4>
+                    <h1>
+                     Park Seul Ye
+                    <br/>
+                     Hwang Yu Rim
+                    <br/>
+                     Bae Jae Hyun
+                     </h1> 
+                 </div>
             </div>
         </div>
     </div>
@@ -24,12 +31,13 @@
         <div class="container">
             <div class="col-md-6" data-aos="fade-up">
                 <h4>01</h4>
-                <h1 class="size-50">Know <br /> About me</h1>
+                <h1 class="size-50">안녕! <br /> 우린 카트팸이야!</h1>
                 <div class="h-50"></div>
-                <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium strategic theme areas vis-a-vis.</p>
-                <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value.</p>
+                <p>우리의 목적은 4:4 .. 유림님의 남자친구분까지 끼는 것이 목적이에요</p>
+                <p>4:4지만 덕쿠 우리편이면일경우에 5:3.. 팀킬 개쩜</p>
                 <div class="h-50"></div> <img src="/assets/img/Signature.svg" width="230" alt="" />
                 <div class="h-50"></div>
+                <p>위 싸인 이미지 필요함 정렬 및 div 정렬 필요(수레)</p>
             </div>
             <div class="col-md-6 about-img-div">
                 <div class="about-border" data-aos="fade-up" data-aos-delay=".5"></div>
@@ -44,7 +52,7 @@
         <div class="container">
             <div class="col-md-12">
                 <h4>02</h4>
-                <h1 class="size-50">My <br /> Experience</h1>
+                <h1 class="size-50">Kart <br /> Family</h1>
                 <div class="h-50"></div>
             </div>
             <div class="col-md-12">
@@ -52,30 +60,31 @@
                     <li class="timeline-event" data-aos="fade-up">
                         <label class="timeline-event-icon"></label>
                         <div class="timeline-event-copy">
-                            <p class="timeline-event-thumbnail">April 2016 - Present</p>
-                            <h3>Geil,Danke! GmbH</h3>
-                            <h4>eines Web-Studios</h4>
-                            <p><strong>Projektmanagement mit Scrum</strong>
-                                <br>Ständiges Verbessern des agilen Entwicklungsprozesses beispielsweise durch Grunt, Yeoman, GIT, JIRA und BrowserStack.</p>
+                            <p class="timeline-event-thumbnail">2018.10~</p>
+                            <h3>카트팸 정식 창단!</h3>
+                            <h4>카트 패밀리 탄생!</h4>
+                            <p><strong>박슬예,황유림,배재현</strong>
+                                <br>카트패밀리가 탄생되었어요.</p>
                         </div>
                     </li>
                     <li class="timeline-event" data-aos="fade-up" data-aos-delay=".2">
                         <label class="timeline-event-icon"></label>
                         <div class="timeline-event-copy">
-                            <p class="timeline-event-thumbnail">November 2014 - Mars 2016</p>
-                            <h3>Freelancer</h3>
-                            <h4>Designer und Autor</h4>
-                            <p>Konzeption, Design und Produktion von Digitalen Magazinen mit InDesign, der Adobe Digital Publishing Suite und HTML5. Co-Autorin der Fachbücher "Digitales Publizieren für Tablets" und "Adobe Digital Publishing Suite" erschienen im dpunkt.verlag.</p>
+                            <p class="timeline-event-thumbnail">2018.09</p>
+                            <h3>박슬예 당근회사에 입사</h3>
+                            <h4>롤, 캐마, 카트 안하는 게임이 없음!</h4>
+                            <p><strong>팀킬 대마왕...</strong>
+                            <p>....박덕쿠 물폭탄 팀킬 존나함..진짜 그러지 마라</p>
                         </div>
                     </li>
                     <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
                         <label class="timeline-event-icon"></label>
                         <div class="timeline-event-copy">
-                            <p class="timeline-event-thumbnail">April 2014</p>
-                            <h3>konplan gmbh</h3>
-                            <h4>IT-Consultant</h4>
-                            <p><strong>Systemarchitektur, Consulting</strong>
-                                <br>Konzeption und Modellierung von Systemen und APIs für Digital Publishing und Entitlement nach SOA</p>
+                            <p class="timeline-event-thumbnail">2018.08</p>
+                            <h3>황유림 당근회사 입사</h3>
+                            <h4>유림의 당근회사에 입사!</h4>
+                            <p><strong>처음엔 싸늘했던 유림</strong>
+                                <br>알고보니 젤먼저 카트하자고 했지요~</p>
                         </div>
                     </li>
                 </ul>
@@ -89,7 +98,8 @@
         <div class="container">
             <div class="col-md-12">
                 <h4>03</h4>
-                <h1 class="size-50">My <br /> Projects</h1> 
+                <h1 class="size-50">Kart-Fam <br /> Photo</h1> 
+                <p>사진 최근 12개?? 정도 동적 생성이 필요해요 (유림)</p>
             </div>
             <!-- main container -->
             <div class="main-container portfolio-inner clearfix">
@@ -237,31 +247,29 @@
         <div class="container">
             <div class="col-md-12">
                 <h4>04</h4>
-                <h1 class="size-50">Contact  Me</h1>
+                <h1 class="size-50">가입 신청서</h1>
                 <div class="h-50"></div>
             </div>
             <div class="col-md-4" data-aos="fade-up">
 
                 <h3>Phone Number</h3>
-                <p>+20 5555 569 42</p>
+                <p>00700</p>
                 <h3> Mobile Numberr</h3>
-                <p>+20 5555 569 42</p>
+                <p>1818-a18-28</p>
                 <h3>Email</h3>
-                <p>mail@info.me </p>
+                <p>orange@carrot-i.com</p>
 
                 <h3>Social Network</h3>
 
+				<p>메일 SMTP서버 한번해볼까?? ,  소셜네트워크(SNS) API 적용해볼까? 뭐라도...(유림)</p>
                 <ul class="social">
                     <li><a href="#"><i class="ion-social-facebook"></i></a></li>
                     <li><a href="#"><i class="ion-social-twitter"></i></a></li>
                     <li><a href="#"><i class="ion-social-instagram"></i></a></li>
-                    <li><a href="#"><i class="ion-social-dribbble"></i></a></li>
                 </ul>
                 
                 <div class="clearfix"></div>
                 <div class="h-50"></div>
-                <div> Shared by <i class="fa fa-love"></i><a href="https://bootstrapthemes.co">BootstrapThemes</a>
-</div>
             </div>
             <div class="col-md-8" data-aos="fade-up">
                 <form class="contact-bg" id="contact-form" name="contact" method="post" novalidate>
@@ -281,6 +289,30 @@
         </div>
     </div>
     <!-- ./contact -->
-
+    
+	 <div id="animatedModal" class="popup-modal">
+	        <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
+	        <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
+	        <div class="clearfix"></div>
+	        <div class="modal-content">
+	            <div class="container">
+	                <div class="portfolio-padding">
+	                    <div class="col-md-8 col-md-offset-2">
+	                        <h2>Geschäfts Eines<br /> Web-Studios</h2>
+	                        <div class="h-50"></div>
+	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium strategic theme areas vis-a-vis.</p>
+	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value.</p>
+	                        <br />
+	                        <br /> <img src="img/portfolio/02.jpg" alt="" class="img-responsive" />
+	                        <br />
+	                        <br />
+	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium strategic theme areas vis-a-vis.</p>
+	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value.</p>
+	                        <br />
+	                        <br /> </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
 </body>
 </html>
