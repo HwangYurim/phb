@@ -37,7 +37,7 @@
                 <p>4:4지만 덕쿠 우리편이면일경우에 5:3.. 팀킬 개쩜</p>
                 <div class="h-50"></div> <img src="/assets/img/Signature.svg" width="230" alt="" />
                 <div class="h-50"></div>
-                <p>위 싸인 이미지 필요함 정렬 및 div 정렬 필요, 배경 크기 등...(수레)</p>
+                <p>위 싸인 이미지 필요함 정렬 및 div 정렬 필요, 배경 크기, 네모상자 등...(수레)</p>
             </div>
             <div class="col-md-6 about-img-div">
                 <div class="about-border" data-aos="fade-up" data-aos-delay=".5"></div>
