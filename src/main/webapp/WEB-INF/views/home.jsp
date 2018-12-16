@@ -60,7 +60,7 @@
                     <li class="timeline-event" data-aos="fade-up">
                         <label class="timeline-event-icon"></label>
                         <div class="timeline-event-copy">
-                            <p class="timeline-event-thumbnail">2018.10~</p>
+                            <p class="timeline-event-thumbnail">2018.10 ~</p>
                             <h3>카트팸 정식 창단!</h3>
                             <h4>카트 패밀리 탄생!</h4>
                             <p><strong>박슬예,황유림,배재현</strong>
