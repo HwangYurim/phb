@@ -18,6 +18,13 @@
 	<resources mapping="/resources/**" location="classpath*:/resources/"/>
 
     <resources mapping="assets/css/**" location="/resources/assets/css/" />
+    <resources mapping="assets/js/**" location="/resources/assets/js/" />
+    <resources mapping="assets/fonts/**" location="/resources/assets/fonts/" />
+    <resources mapping="assets/img/**" location="/resources/assets/img/" />
+    <resources mapping="assets/ionicons/**" location="/resources/assets/ionicons/" />
+    <resources mapping="assets/ionicons/css/**" location="/resources/assets/ionicons/css/" />
+    
+    
     <resources mapping="js/**" location="/resources/js/" />
 
 	<!-- Resolves views selected for rendering by @Controllers to .jsp resources in the /WEB-INF/views directory -->
