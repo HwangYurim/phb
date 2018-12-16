@@ -14,11 +14,11 @@
                 <div class="table-cell" data-aos="fade-up" data-aos-delay="0">
                     <h4>카트팸</h4>
                     <h1>
-                     Park Seul Ye
+                     Park Seul Ye.
                     <br/>
-                     Hwang Yu Rim
+                     Hwang Yu Rim.
                     <br/>
-                     Bae Jae Hyun
+                     Bae Jae Hyun.
                      </h1> 
                  </div>
             </div>
@@ -73,7 +73,7 @@
                             <p class="timeline-event-thumbnail">2018.09</p>
                             <h3>박슬예 당근회사에 입사</h3>
                             <h4>롤, 캐마, 카트 안하는 게임이 없음!</h4>
-                            <p><strong>팀킬 대마왕...</strong>
+                            <p><strong>그치만...팀킬 대마왕...</strong>
                             <p>....박덕쿠 물폭탄 팀킬 존나함..진짜 그러지 마라</p>
                         </div>
                     </li>
