@@ -545,7 +545,7 @@ a.active {
     -webkit-transition: all .3s ease-in-out .3s;
     transition: all .3s ease-in-out .3s;
     opacity: 0;
-    font-size: 10px;
+    font-size: 15px;
     letter-spacing: 2px;
 }
 

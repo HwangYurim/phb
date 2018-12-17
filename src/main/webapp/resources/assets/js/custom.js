@@ -129,17 +129,22 @@ $(document).ready(function () {
             },
             messages: {
                 name: {
-                    required: "This field is required",
-                    minlength: "your name must consist of at least 2 characters"
+                    required: "이름을 써주세요. 도대체 왜 안쓰는거에요?",
+                    minlength: "넌 이름이 1글짜니?"
                 },
                 email: {
-                    required: "This field is required"
+                    required: "이메일도 좀 써줄래?"
                 },
                 message: {
-                    required: "This field is required"
+                    required: "우리에게 한마디 해봐~ 하기싫어? "
                 }
             },
             submitHandler: function (form) {
+            	
+            	//TODO: 이메일 보내기 구성중.. 구성하고 나서 return 풀기~
+            	alert("이메일 보내기는 구현 중...");
+            	return;
+            	
                 $(form).ajaxSubmit({
                     type: "POST",
                     data: $(form).serialize(),

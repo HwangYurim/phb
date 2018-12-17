@@ -34,10 +34,13 @@
                 <h1 class="size-50">안녕! <br /> 우린 카트팸이야!</h1>
                 <div class="h-50"></div>
                 <p>우리의 목적은 4:4 .. 유림님의 남자친구분까지 끼는 것이 목적이에요</p>
-                <p>4:4지만 덕쿠 우리편이면일경우에 5:3.. 팀킬 개쩜</p>
-                <div class="h-50"></div> <img src="/assets/img/Signature.svg" width="230" alt="" />
-                <div class="h-50"></div>
-                <p>위 싸인 이미지 필요함 정렬 및 div 정렬 필요, 배경 크기, 네모상자 등...(수레)</p>
+                <p>하지만 박덕쿠(슬예)가 우리편이라면? 4:4가 아니라 5:3이 되어버리죠.. 팀킬 개쩜</p>
+                <div class="h-50"></div> <img src="/assets/img/logo_PHB.png"  alt="" />
+                <div class="h-50" style="text-align: right;">
+                	Seul-Ye Park, Yu-Rim Hwang, Jae-Hyun Bae. 
+                	<br>
+                	Made Together...
+                </div>
             </div>
             <div class="col-md-6 about-img-div">
                 <div class="about-border" data-aos="fade-up" data-aos-delay=".5"></div>
@@ -74,7 +77,7 @@
                             <h3>박슬예 당근회사에 입사</h3>
                             <h4>롤, 캐마, 카트 안하는 게임이 없음!</h4>
                             <p><strong>그치만...팀킬 대마왕...</strong>
-                            <p>....박덕쿠 물폭탄 팀킬 존나함..진짜 그러지 마라</p>
+                            <br>...박덕쿠 물폭탄 팀킬 존나함..진짜 그러지 마라</p>
                         </div>
                     </li>
                     <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
@@ -82,7 +85,7 @@
                         <div class="timeline-event-copy">
                             <p class="timeline-event-thumbnail">2018.08</p>
                             <h3>황유림 당근회사 입사</h3>
-                            <h4>유림의 당근회사에 입사!</h4>
+                            <h4>박치기 & 텃새의 왕!</h4>
                             <p><strong>처음엔 싸늘했던 유림</strong>
                                 <br>알고보니 젤먼저 카트하자고 했지요~</p>
                         </div>
@@ -98,7 +101,7 @@
         <div class="container">
             <div class="col-md-12">
                 <h4>03</h4>
-                <h1 class="size-50">Kart-Fam <br /> Photo</h1> 
+                <h1 class="size-50">Kart-Family <br /> Photo</h1> 
                 <p>사진 최근 12개?? 정도 동적 생성이 필요해요 (유림)</p>
             </div>
             <!-- main container -->
@@ -111,11 +114,11 @@
                             <nav class="categories">
                                 <ul class="portfolio_filter">
                                     <li><a href="" class="active" data-filter="*">All</a></li>
-                                    <li><a href="" data-filter=".photography">Photography</a></li>
-                                    <li><a href="" data-filter=".logo">Logo</a></li>
-                                    <li><a href="" data-filter=".graphics">Graphics</a></li>
-                                    <li><a href="" data-filter=".ads">Advertising</a></li>
-                                    <li><a href="" data-filter=".fashion">Fashion</a></li>
+                                    <li><a href="" data-filter=".psy">Park Seul Ye</a></li>
+                                    <li><a href="" data-filter=".hyr">Hwang Yu Rim</a></li>
+                                    <li><a href="" data-filter=".bjh">Bae Jae Hyun</a></li>
+                                    <li><a href="" data-filter=".ant">another</a></li>
+                                    <li><a href="" data-filter=".etc">etc</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -124,11 +127,11 @@
                         <!-- portfolio_container -->
                         <div class="no-padding portfolio_container clearfix" data-aos="fade-up">
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6  fashion logo">
-                                <a id="demo01" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/01.jpg" alt="image" class="img-responsive" />
+                            <div class="col-md-4 col-sm-6 psy ">
+                                <a id="demo01" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/kakaoPsy.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Mockups in seconds</span> <em>Fashion / Logo</em> </div>
+                                            <div class="item_info"> <span>팀킬왕 박수레</span> <em>Fam - Assistant Master</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -136,11 +139,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 ads graphics">
-                                <a id="demo02" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/03.jpg" alt="image" class="img-responsive" />
+                            <div class="col-md-4 col-sm-6 hyr">
+                                <a id="demo02" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/kakaoHyr.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Floating mockups</span> <em>Ads / Graphics</em> </div>
+                                            <div class="item_info"> <span>박치기 황뿔새</span> <em>Fam - Master</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -148,11 +151,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 photography">
-                                <a id="demo03" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/02.jpg" alt="image" class="img-responsive" />
+                            <div class="col-md-4 col-sm-6 bjh">
+                                <a id="demo03" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/kakaoBjh.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Photorealistic smartwatch</span> <em>Photography</em> </div>
+                                            <div class="item_info"> <span>멋쟁이 재현2</span> <em>Fam - Staff</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -160,11 +163,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 fashion ads">
+                            <div class="col-md-4 col-sm-6 ant">
                                 <a id="demo04" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/04.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Held by hands</span> <em>Fashion / Ads</em> </div>
+                                            <div class="item_info"> <span>다른 사람을 위해 비워둡니다.</span> <em>아마도.. 4번째 멤버?</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -172,11 +175,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 graphics ads">
-                                <a id="demo05" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/05.jpg" alt="image" class="img-responsive" />
+                            <div class="col-md-4 col-sm-6 etc">
+                                <a id="demo05" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/etc02.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                            <div class="item_info"> <span>카트라이더 사진</span> <em>kart-Photo / etc</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -184,11 +187,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 photography">
-                                <a id="demo06" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/010.jpg" alt="image" class="img-responsive" />
+                            <div class="col-md-4 col-sm-6 psy">
+                                <a id="demo06" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/signaturePsy.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Photorealistic smartwatch</span> <em>Photography</em> </div>
+                                            <div class="item_info"> <span>박수레님의 시그니쳐</span> <em>동생빨 오지구요~</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -196,11 +199,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 graphics ads">
-                                <a id="demo07" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/06.jpg" alt="image" class="img-responsive" />
+                            <div class="col-md-4 col-sm-6 bjh">
+                                <a id="demo07" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/signatureBjh.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                            <div class="item_info"> <span>재현님의 시그니쳐</span> <em>존나 나는 왜 안만들어주냐..</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -208,11 +211,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 graphics ads">
+                            <div class="col-md-4 col-sm-6 hyr">
                                 <a id="demo08" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/07.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                            <div class="item_info"> <span>유리미의 시그니쳐</span> <em>준비중 입니다.</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -220,11 +223,11 @@
                             <!-- end single work -->
                             
                             <!-- single work -->
-                            <div class="col-md-4 col-sm-6 graphics ads">
-                                <a id="demo09" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/08.jpg" alt="image" class="img-responsive" />
+                            <div class="col-md-4 col-sm-6 etc">
+                                <a id="demo09" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/etc01.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>Mobile devices</span> <em>Graphics / Ads</em> </div>
+                                            <div class="item_info"> <span>배찌새끼</span> <em>kart-Photo / etc</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -242,7 +245,7 @@
     </div>
     <!-- ./projects -->
     
-    <!-- contact -->
+      <!-- contact -->
     <div class="section" id="contact">
         <div class="container">
             <div class="col-md-12">
@@ -253,23 +256,23 @@
             <div class="col-md-4" data-aos="fade-up">
 
                 <h3>Phone Number</h3>
-                <p>00700</p>
-                <h3> Mobile Numberr</h3>
                 <p>1818-a18-28</p>
+                <h3> Mobile Numberr</h3>
+                <p>00700</p>
                 <h3>Email</h3>
                 <p>orange@carrot-i.com</p>
 
                 <h3>Social Network</h3>
 
-				<p>메일 SMTP서버 한번해볼까?? ,  소셜네트워크(SNS) API 적용해볼까? 뭐라도...(유림)</p>
                 <ul class="social">
                     <li><a href="#"><i class="ion-social-facebook"></i></a></li>
                     <li><a href="#"><i class="ion-social-twitter"></i></a></li>
                     <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+                    <li><a href="#"><i class="ion-social-dribbble"></i></a></li>
                 </ul>
-                
                 <div class="clearfix"></div>
                 <div class="h-50"></div>
+          
             </div>
             <div class="col-md-8" data-aos="fade-up">
                 <form class="contact-bg" id="contact-form" name="contact" method="post" novalidate>
@@ -289,30 +292,31 @@
         </div>
     </div>
     <!-- ./contact -->
-    
-	 <div id="animatedModal" class="popup-modal">
-	        <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
-	        <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
-	        <div class="clearfix"></div>
-	        <div class="modal-content">
-	            <div class="container">
-	                <div class="portfolio-padding">
-	                    <div class="col-md-8 col-md-offset-2">
-	                        <h2>Geschäfts Eines<br /> Web-Studios</h2>
-	                        <div class="h-50"></div>
-	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium strategic theme areas vis-a-vis.</p>
-	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value.</p>
-	                        <br />
-	                        <br /> <img src="img/portfolio/02.jpg" alt="" class="img-responsive" />
-	                        <br />
-	                        <br />
-	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value. Quickly promote premium strategic theme areas vis-a-vis.</p>
-	                        <p>Appropriately maintain standards compliant total linkage with cutting-edge action items. Enthusiastically create seamless synergy rather than excellent value.</p>
-	                        <br />
-	                        <br /> </div>
-	                </div>
-	            </div>
-	        </div>
-	    </div>
+
+    <!--DEMO01-->
+    <div id="animatedModal" class="popup-modal">
+        <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID -->
+        <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
+        <div class="clearfix"></div>
+        <div class="modal-content">
+            <div class="container">
+                <div class="portfolio-padding">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2>아직은...<br /> 기능이 없어요...</h2>
+                        <div class="h-50"></div>
+                        <p>곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려!</p>
+                        <p>곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려!</p>
+                        <br />
+                        <br /> <img src="/assets/img/portfolio/02.jpg" alt="" class="img-responsive" />
+                        <br />
+                        <br />
+                        <p>곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려!</p>
+						<p>곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려! 곧 넣을거야!! 기다려!</p>
+						<br />
+                        <br /> </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
