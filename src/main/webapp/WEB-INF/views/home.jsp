@@ -183,7 +183,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> 
                             <!-- end single work -->
                             
                             <!-- single work -->
