@@ -21,6 +21,7 @@
     <resources mapping="assets/js/**" location="/resources/assets/js/" />
     <resources mapping="assets/fonts/**" location="/resources/assets/fonts/" />
     <resources mapping="assets/img/**" location="/resources/assets/img/" />
+    <resources mapping="assets/video/**" location="/resources/assets/video/" />
     <resources mapping="assets/ionicons/**" location="/resources/assets/ionicons/" />
     <resources mapping="assets/ionicons/css/**" location="/resources/assets/ionicons/css/" />
     

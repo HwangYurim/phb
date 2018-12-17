@@ -21,11 +21,15 @@ public class WelComeController {
         this.sampleServiceImpl = sampleServiceImpl;
     }
     
+	@RequestMapping(value = "/", method = RequestMethod.GET)
+	public String home(Locale locale, Model model) {
+		return "home";
+	}
+    
+	//TODO: 아래는 테스트용이니 추후에 삭제.
     @RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String home(Model model) {
-		
     	List<KartUser> result = sampleServiceImpl.getUserList();
-		
     	model.addAttribute("result", result);
     	
 		return "home";
