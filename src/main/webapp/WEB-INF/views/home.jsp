@@ -35,7 +35,7 @@
                 <div class="h-50"></div>
                 <p>우리의 목적은 4:4 .. 유림님의 남자친구분까지 끼는 것이 목적이에요</p>
                 <p>하지만 박덕쿠(슬예)가 우리편이라면? 4:4가 아니라 5:3이 되어버리죠.. 팀킬 개쩜</p>
-                <div class="h-50"></div> <img src="/assets/img/logo_PHB.png"  alt="" />
+                <div class="h-50"></div> <img class="phbLogo" src="/assets/img/logo_PHB.png"  alt="" />
                 <div class="h-50" style="text-align: right;">
                 	Seul-Ye Park, Yu-Rim Hwang, Jae-Hyun Bae. 
                 	<br>

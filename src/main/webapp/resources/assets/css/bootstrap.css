@@ -6754,4 +6754,16 @@ button.close {
     display: none !important;
   }
 }
+
+
+
+.phbLogo {
+  width: 300px;
+}
+
+@media screen and (min-width: 470px) {
+  .phbLogo {
+    width: 470px;
+  }
+}
 /*# sourceMappingURL=bootstrap.css.map */
