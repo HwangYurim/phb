@@ -18,8 +18,10 @@
                     <br/>
                      Hwang Yu Rim.
                     <br/>
+                     Oh Kyung Joong.
+                    <br/>
                      Bae Jae Hyun.
-                     </h1>
+                    </h1>
                  </div>
             </div>
         </div>
@@ -37,7 +39,7 @@
                 <p>하지만 박덕쿠(슬예)가 우리편이라면? 4:4가 아니라 5:3이 되어버리죠.. 팀킬 개쩜</p>
                 <div class="h-50"></div> <img class="phbLogo" src="/assets/img/logo_PHB.png"  alt="" />
                 <div class="h-50" style="text-align: right;">
-                	Seul-Ye Park, Yu-Rim Hwang, Jae-Hyun Bae. 
+                	Park, Hwang, Oh, Bae. 
                 	<br>
                 	Made Together...
                 </div>
@@ -60,6 +62,16 @@
             </div>
             <div class="col-md-12">
                 <ul class="timeline">
+                    <li class="timeline-event" data-aos="fade-up">
+                        <label class="timeline-event-icon"></label>
+                        <div class="timeline-event-copy">
+                            <p class="timeline-event-thumbnail">2018.12</p>
+                            <h3>오경중님 카트팸 가입!</h3>
+                            <h4>신입생 캥거루!</h4>
+                            <p><strong>앞으로의 활약을 기대해요.</strong>
+                                <br>카트패밀리가 4명이 되었어요.</p>
+                        </div>
+                    </li>
                     <li class="timeline-event" data-aos="fade-up">
                         <label class="timeline-event-icon"></label>
                         <div class="timeline-event-copy">
@@ -102,7 +114,7 @@
             <div class="col-md-12">
                 <h4>03</h4>
                 <h1 class="size-50">Kart-Family <br /> Photo</h1> 
-                <p>사진 최근 12개?? 정도 동적 생성이 필요해요 (유림)</p>
+<!--                 <p>사진 최근 12개?? 정도 동적 생성이 필요해요 (유림)</p> -->
             </div>
             <!-- main container -->
             <div class="main-container portfolio-inner clearfix">
