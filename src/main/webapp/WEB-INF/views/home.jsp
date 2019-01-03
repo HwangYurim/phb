@@ -35,7 +35,7 @@
                 <h4>01</h4>
                 <h1 class="size-50">안녕! <br /> 우린 카트팸이야!</h1>
                 <div class="h-50"></div>
-                <p>우리의 목적은 4:4 .. 유림님의 남자친구분까지 끼는 것이 목적이에요</p>
+                <p>우리의 목적은 4:4 .. 캥거루님의 가입으로 완전체가 되었죠!</p>
                 <p>하지만 박덕쿠(슬예)가 우리편이라면? 4:4가 아니라 5:3이 되어버리죠.. 팀킬 개쩜</p>
                 <div class="h-50"></div> <img class="phbLogo" src="/assets/img/logo_PHB.png"  alt="" />
                 <div class="h-50" style="text-align: right;">
@@ -129,7 +129,7 @@
                                     <li><a href="" data-filter=".psy">Park Seul Ye</a></li>
                                     <li><a href="" data-filter=".hyr">Hwang Yu Rim</a></li>
                                     <li><a href="" data-filter=".bjh">Bae Jae Hyun</a></li>
-                                    <li><a href="" data-filter=".ant">another</a></li>
+                                    <li><a href="" data-filter=".ant">Oh Kyung Joong</a></li>
                                     <li><a href="" data-filter=".etc">etc</a></li>
                                 </ul>
                             </nav>
@@ -176,10 +176,10 @@
                             
                             <!-- single work -->
                             <div class="col-md-4 col-sm-6 ant">
-                                <a id="demo04" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/04.jpg" alt="image" class="img-responsive" />
+                                <a id="demo04" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/kakaoOkj.jpg" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>다른 사람을 위해 비워둡니다.</span> <em>아마도.. 4번째 멤버?</em> </div>
+                                            <div class="item_info"> <span>캥거루 5겸둥</span> <em>Fam - Staff</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -236,10 +236,10 @@
                             
                             <!-- single work -->
                             <div class="col-md-4 col-sm-6 etc">
-                                <a id="demo09" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/etc01.jpg" alt="image" class="img-responsive" />
+                                <a id="demo09" href="#animatedModal" class="portfolio_item"> <img src="/assets/img/portfolio/signatureOkj2.png" alt="image" class="img-responsive" />
                                     <div class="portfolio_item_hover">
                                         <div class="portfolio-border clearfix">
-                                            <div class="item_info"> <span>배찌새끼</span> <em>kart-Photo / etc</em> </div>
+                                            <div class="item_info"> <span>오겸둥님의 시그니쳐</span> <em>캥거루싸인이 졸웃인뎅!</em> </div>
                                         </div>
                                     </div>
                                 </a>
@@ -272,7 +272,7 @@
                 <h3> Mobile Numberr</h3>
                 <p>00700</p>
                 <h3>Email</h3>
-                <p>orange@carrot-i.com</p>
+                <p>orange@kf.com</p>
 
                 <h3>Social Network</h3>
 
